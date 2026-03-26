@@ -10,7 +10,7 @@ export default function TopBar({ query, onChange, topicCount, onToggleMenu }) {
         ☰
       </button>
       <h1 className="font-serif text-xl tracking-tight text-stone-900">
-        DSA Master <span className="text-orange-600">React</span>
+        DSA Master <span className="text-orange-600"></span>
       </h1>
       <div className="hidden h-6 w-px bg-stone-200 md:block" />
       <div className="relative w-full max-w-sm">
